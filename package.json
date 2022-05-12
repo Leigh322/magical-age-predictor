@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Leigh322/magical-age-predictor/issues"
   },
-  "homepage": "https://github.com/Leigh322/magical-age-predictor#readme"
+  "homepage": "https://github.com/Leigh322/magical-age-predictor#readme",
+    "publishConfig": {
+      "access":"public",
+      "registry":"https://registry.npmjs.org/"
+    }
 }
