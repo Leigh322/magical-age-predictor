@@ -1,0 +1,22 @@
+{
+  "name": "magical-age-predictor",
+  "version": "1.0.0",
+  "description": "It can help you get your age accurately",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leigh322/magical-age-predictor.git"
+  },
+  "keywords": [
+    "magical"
+  ],
+  "author": "leigh <916160241@qq.com> (http://leighli.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leigh322/magical-age-predictor/issues"
+  },
+  "homepage": "https://github.com/Leigh322/magical-age-predictor#readme"
+}
