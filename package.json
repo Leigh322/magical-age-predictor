@@ -1,5 +1,5 @@
 {
-  "name": "@leigh/magical-age-predictor",
+  "name": "magical-age-predictor",
   "version": "1.0.1",
   "description": "It can help you get your age accurately",
   "main": "src/index.js",
